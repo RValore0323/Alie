@@ -1,0 +1,7 @@
+F:\PreProgrammed\bin\Debug\PreProgrammed.dll
+F:\PreProgrammed\bin\Debug\PreProgrammed.pdb
+F:\PreProgrammed\bin\Debug\Alie.exe
+F:\PreProgrammed\bin\Debug\Alie.pdb
+F:\PreProgrammed\obj\Debug\PreProgrammed.csprojResolveAssemblyReference.cache
+F:\PreProgrammed\obj\Debug\PreProgrammed.dll
+F:\PreProgrammed\obj\Debug\PreProgrammed.pdb

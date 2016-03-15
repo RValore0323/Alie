@@ -1,0 +1,14 @@
+C:\Users\RValore\Desktop\Alie\Alie\Commands\bin\Debug\Commands.dll
+C:\Users\RValore\Desktop\Alie\Alie\Commands\bin\Debug\Commands.pdb
+C:\Users\RValore\Desktop\Alie\Alie\Commands\bin\Debug\Alie.exe
+C:\Users\RValore\Desktop\Alie\Alie\Commands\bin\Debug\Alie.pdb
+C:\Users\RValore\Desktop\Alie\Alie\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+C:\Users\RValore\Desktop\Alie\Alie\Commands\obj\Debug\Commands.dll
+C:\Users\RValore\Desktop\Alie\Alie\Commands\obj\Debug\Commands.pdb
+F:\Commands\bin\Debug\Commands.dll
+F:\Commands\bin\Debug\Commands.pdb
+F:\Commands\bin\Debug\Alie.exe
+F:\Commands\bin\Debug\Alie.pdb
+F:\Commands\obj\Debug\Commands.csprojResolveAssemblyReference.cache
+F:\Commands\obj\Debug\Commands.dll
+F:\Commands\obj\Debug\Commands.pdb

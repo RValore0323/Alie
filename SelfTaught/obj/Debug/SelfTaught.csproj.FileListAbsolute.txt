@@ -1,0 +1,4 @@
+F:\SelfTaught\bin\Debug\SelfTaught.dll
+F:\SelfTaught\bin\Debug\SelfTaught.pdb
+F:\SelfTaught\obj\Debug\SelfTaught.dll
+F:\SelfTaught\obj\Debug\SelfTaught.pdb

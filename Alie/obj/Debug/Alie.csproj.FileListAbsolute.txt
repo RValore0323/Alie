@@ -1,0 +1,10 @@
+C:\Users\RValore\Desktop\Alie\Alie\Alie\bin\Debug\Alie.exe.config
+C:\Users\RValore\Desktop\Alie\Alie\Alie\bin\Debug\Alie.exe
+C:\Users\RValore\Desktop\Alie\Alie\Alie\bin\Debug\Alie.pdb
+C:\Users\RValore\Desktop\Alie\Alie\Alie\obj\Debug\Alie.exe
+C:\Users\RValore\Desktop\Alie\Alie\Alie\obj\Debug\Alie.pdb
+F:\Alie\bin\Debug\Alie.exe.config
+F:\Alie\bin\Debug\Alie.exe
+F:\Alie\bin\Debug\Alie.pdb
+F:\Alie\obj\Debug\Alie.exe
+F:\Alie\obj\Debug\Alie.pdb
