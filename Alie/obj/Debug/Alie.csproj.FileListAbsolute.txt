@@ -8,3 +8,6 @@ F:\Alie\bin\Debug\Alie.exe
 F:\Alie\bin\Debug\Alie.pdb
 F:\Alie\obj\Debug\Alie.exe
 F:\Alie\obj\Debug\Alie.pdb
+C:\Users\RValore\Documents\Git\Alie\Alie\bin\Debug\Alie.exe.config
+C:\Users\RValore\Documents\Git\Alie\Alie\obj\Debug\Alie.exe
+C:\Users\RValore\Documents\Git\Alie\Alie\obj\Debug\Alie.pdb
