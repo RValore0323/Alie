@@ -1,2 +1,86 @@
 ﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#PageHeader {
+    width: 100%;
+    height: 100px;
+
+    background: #ff474a;
+    background: -moz-linear-gradient(top,  #ff474a 0%, #bf0003 100%);
+    background: -webkit-linear-gradient(top,  #ff474a 0%,#bf0003 100%);
+    background: linear-gradient(to bottom,  #ff474a 0%,#bf0003 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff474a', endColorstr='#bf0003',GradientType=0 );
+    
+    vertical-align: central;
+}
+
+#HeaderText {
+    margin-left: 10px;
+    font-size: 80px;
+    font-weight: bold;
+    color: white;
+}
+
+.BlackPageDivider {
+    width: 100%;
+    height: 15px;
+    background-color: white;
+}
+
+.RedPageDivider {
+    width: 100%;
+    height: 15px;
+    background-color: #BF0003;
+}
+
+#NavigationBar {
+    width: calc(70% - 15px);
+    height: 50px;
+    margin-left: calc(15% - 15px);
+    margin-top: -15px;
+    border-left: 15px solid #BF0003;
+    border-bottom: 15px solid #BF0003;
+    border-right: 15px solid #BF0003;
+    border-radius: 0px 0px 25px 25px;
+    background-color: white;
+}
+
+.NavigationItem {
+    width: calc((100% / 6) - 4px);
+    height: 48px;
+    float: left;
+    transition: color linear 0.5s;
+    transition: background-color linear 0.5s;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #BF0003;
+    background-color: white;
+
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+.NavigationItem:hover {
+    transition: color linear 0.5s;
+    transition: background-color linear 0.5s;
+    color: white;
+    background-color: #BF0003;
+    cursor: pointer;
+}
+
+#BodyWrapper {
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+
+#PageFooter {
+    width: 100%;
+    height: 75px;
+    background-color: #BF0003;
 }
